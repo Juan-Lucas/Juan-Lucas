@@ -1,28 +1,13 @@
-## Hi, I'm Jean-Luc Mupasa 👋
+### About Me
 
-Data Scientist and software engineer based in Lubumbashi, DR Congo.
-Master's degree in Data Science from Don Bosco University of Lubumbashi (UDBL), 2026.
+I am a data scientist based in Lubumbashi, DR Congo, with a Master's degree in Data Science from Don Bosco University of Lubumbashi (2026). I work on machine learning for environments where data is scarce, noisy or incomplete, which is the everyday reality in the DRC. My research applies predictive models and reinforcement learning to supply chains and mining operations, and I am increasingly interested in NLP for Congolese languages and local data. I care about models that hold up outside the lab and serve the industries that drive the region: logistics, mining and finance.
 
-I apply machine learning to real-world problems in supply chains, mining and finance, with a growing focus on NLP for Congolese languages and data.
+### Research
 
-### 🔬 Research
+- Machine Learning-Based Delivery Delay Prediction for Supply Chain Resilience *(in preparation)*
+- Beyond Static Dispatching Heuristics: Deep Reinforcement Learning for Truck Dispatching in Open-Pit Mines *(in preparation)*
+- TR-MQLR: Transfer-Regularized Probabilistic Supply Chain Demand Forecasting Model for Launch-Phase Retail Products under Data Scarcity
 
-- **Machine Learning-Based Delivery Delay Prediction for Supply Chain Resilience** (in preparation)
-- **Beyond Static Dispatching Heuristics:** deep reinforcement learning for truck dispatching in open-pit mines (in preparation)
-- **Hybrid Transfer Learning and Probabilistic Modeling for Supply Chain Optimization in Data-Scarce Environments**
-
-### 📂 Featured projects
-
-| Project | Description |
-|---|---|
-| [supply_chain_resilience](https://github.com/Juan-Lucas/supply_chain_resilience) | Delivery delay prediction with ML models |
-| [data-scarcity](https://github.com/Juan-Lucas/data-scarcity) | Transfer learning for supply chain optimization with little data |
-| [github-actions-generator](https://github.com/Juan-Lucas/github-actions-generator) | CLI tool to generate standardized GitHub Actions workflows |
-
-### 🛠️ Tools
-
-Python · scikit-learn · PyTorch · Hugging Face · pandas · SQL · Docker · Git · LaTeX
-
-### 📫 Contact
+### Let's get in touch
 
 [LinkedIn](https://www.linkedin.com/in/jean-luc-mupasa) · [Blog](https://jeanlucmupasa.hashnode.dev/)
